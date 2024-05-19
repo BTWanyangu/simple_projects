@@ -1,0 +1,46 @@
+body{
+    color: #82a5ca;
+    margin: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  padding:10px 0 40px 0 ;
+}
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.button{
+border: none;
+background: azure;
+font-family: 'Orbitron', sans-serif;
+color: #82a5ca;
+font-weight: 800;
+padding: 6px 12px;
+}
+.cta{
+    text-decoration-line: underline;
+}
+#main-logo{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#hero{
+    background-image: url("images/universe.jpg") ;
+    padding: 40px 0 200px 0;
+    background-size: cover;
+}
+#title{
+    text-shadow: 0px 0px 4px black;
+    
+}
