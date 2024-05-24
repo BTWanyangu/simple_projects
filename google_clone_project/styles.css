@@ -72,5 +72,33 @@ body {
 
 .search-container form div {
     margin-bottom: 10px;
+}.search-container-1 input[type="text"] {
+    width: 250px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #5f6368;
+    border-radius: 5px;
+    outline: none;
+    background-color: #303134;
+    color: #e8eaed;
 }
 
+.search-container-1 .buttons {
+    margin-top: 20px;
+}
+
+.search-container-1 input[type="submit"] {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 24px;
+    background-color: #303134;
+    color: #e8eaed;
+    cursor: pointer;
+}
+
+.search-container-1 input[type="submit"]:hover {
+    background-color: #5f6368;
+}
+.search-container-1 {
+    text-align: center;
