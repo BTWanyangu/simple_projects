@@ -10,7 +10,7 @@
                 <p class="text-gray-400 mt-4">Our team of experts uses a methodology to identify <br> the creedit cards most likely to fit your needs. <br> We examine annual percentage rates, annual fees</p>
                 </div>
                 <div class="mt-12 relative flex items-center justify-center p-2 w-20 h-20 border-2 border-cyan-400 transparent text-cyan-400 rounded-full ">
-                    <a href="#"><p>Get <span class="text-white">&nearr;</span> <br> Started</p> </a>
+                    <a href="/"><p>Get <span class="text-white">&nearr;</span> <br> Started</p> </a>
                     
                     
                 </div>
