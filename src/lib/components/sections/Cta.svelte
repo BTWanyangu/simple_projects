@@ -33,8 +33,8 @@
           
             <!-- Balance Transfer Section -->
             <div class="flex items-start space-x-4 hover:bg-gray-800 cursor-pointer rounded-lg">
-              <div class="bg-green-500 p-2 rounded-full">
-                <Icon icon="mdi:send" class="text-white text-xl" />
+              <div class="bg-cyan-400 p-2 rounded-full">
+                <Icon icon="lets-icons:send-fill" class="text-white text-xl"/>  
               </div>
               <div>
                 <h2 class="font-bold text-lg">Balance Transfer</h2>
